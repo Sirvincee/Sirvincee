@@ -23,9 +23,8 @@ I'm <b>Vince, a web-developer</b>. Welcome to my GitHub Profile! 🚀
 <h3> 🎨 Interests</h3>
 
 - Front-end development
-- Designs
+- UI/UX Designs
 - Continuous learning
-- Open source projects
 
 <h3> 📫 How to reach me</h3>
 
@@ -37,7 +36,7 @@ I'm <b>Vince, a web-developer</b>. Welcome to my GitHub Profile! 🚀
 
 - I'm a night crawler 👨‍💻
 - I love forex trading 💹
-- I'm a self-taught developer and learned to code by building my own websites and projects in my spare time. 👨‍🎓
+- I am being mentored by @manlikexavy 👨‍🏫
 
 <h3>🎉 Thanks for stopping by!</h3>
 
