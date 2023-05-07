@@ -1,45 +1,45 @@
-# Hello, World! 👋🌎
+<h3>Hello, World! 👋🌎</h3>
 
 I'm <b>Vince, a web-developer</b>. Welcome to my GitHub Profile! 🚀
 
-## 🔭 I'm currently working on...
+<h3>🔭 I'm currently working on...</h3>
 
 - [Remix Landing Page](remix-landing.vercel.app)
 - [Twitter Clone (Desktop)](https://github.com/Sirvincee/twitter-clone-desktop-.git)
 
-## 🌱 I'm currently learning...
+<h3>🌱 I'm currently learning...</h3>
 
 - JavaScript
 - React
 - Vue
 
-## 🚀 Skills
+<h3> 🚀 Skills</h3>
 
 - HTML/CSS
 - JavaScript (intermediate)
 - Tailwind CSS (intermediate)
 - Git
 
-## 🎨 Interests
+<h3> 🎨 Interests</h3>
 
 - Front-end development
 - Designs
 - Continuous learning
 - Open source projects
 
-## 📫 How to reach me
+<h3> 📫 How to reach me</h3>
 
 - [Email](mailto:atunwavincent1999@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 - [Twitter](https://twitter.com/Dvizible)
 
-## 🌈 Fun Facts
+<h3> 🌈 Fun Facts</h3>
 
 - I'm a night crawler 👨‍💻
 - I love forex trading 💹
 - I'm a self-taught developer and learned to code by building my own websites and projects in my spare time. 👨‍🎓
 
-## 🎉 Thanks for stopping by!
+<h3>🎉 Thanks for stopping by!</h3>
 
 Feel free to take a look at my projects and reach out if you have any questions or collaboration opportunities. Have a great day! 😄
 
